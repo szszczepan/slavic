@@ -2,5 +2,5 @@
 
 Wstęp lorem ipsum
 
-- {Perun](/gods/perun.md)
-- [Veles](/gods/weles.md)
+- [Perun](/gods/perun.md)
+- [Weles](/gods/weles.md)
