@@ -2,7 +2,7 @@
 
 Wstęp lorem ipsum
 
-- [Goods and Monsters](/goods_monsters.md)
+- [Gods and Monsters](/gods_monsters.md)
 - [Stories](/stories.md)
 - [Heroes aka. Bogatyr](/heroes.md)
 - [Locations](/locations)
