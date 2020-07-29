@@ -1,4 +1,4 @@
-# Gods & Monsters
+# Gods, Monsters and Others
 
 Wstęp lorem ipsum
 
