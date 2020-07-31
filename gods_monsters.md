@@ -17,3 +17,4 @@ Wstęp lorem ipsum
 - [Marzanna](gods/Marzanna.md)
 - [Swietowit](gods/Swietowit.md)
 - [Lada](gods/Lada.md)
+- [Zorya](gods/Zorya.md)
