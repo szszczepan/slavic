@@ -3,9 +3,9 @@
 Wstęp lorem ipsum
 
 - [Perun](/gods/perun.md)
-- [Weles](/gods/weles.md)
+- [Veles](/gods/Veles.md)
 - [Baba-Yaga](gods/Baba-Yaga.md)
-- [Mokosz](gods/Mokosz.md)
+- [Mokosh](gods/Mokosh.md)
 - [Stribog](gods/Stribog.md)
 - [Swarog](gods/Swarog.md)
 - [Swarozyc](gods/Swarozyc.md)
@@ -14,3 +14,6 @@ Wstęp lorem ipsum
 - [Belobog](gods/Belobog.md)
 - [Rod](gods/Rod.md)
 - [Rodance](gods/Rodance.md)
+- [Madder](gods/Madder.md)
+- [Swietowit](gods/Swietowit.md)
+- [Lada](gods/Lada.md)
