@@ -14,6 +14,6 @@ Wstęp lorem ipsum
 - [Belobog](gods/Belobog.md)
 - [Rod](gods/Rod.md)
 - [Rodance](gods/Rodance.md)
-- [Madder](gods/Madder.md)
+- [Marzanna](gods/Marzanna.md)
 - [Swietowit](gods/Swietowit.md)
 - [Lada](gods/Lada.md)
