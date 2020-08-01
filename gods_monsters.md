@@ -19,3 +19,5 @@ Wstęp lorem ipsum
 - [Lada](gods/Lada.md)
 - [Zorya](gods/Zorya.md)
 - [Chors](gods/Chors.md)
+- [Swietowit](gods/Swietowit.md)
+- [Jarowit](gods/Jarowit.md)
